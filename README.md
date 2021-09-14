@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @srikanthmuniganti
 - 👀 I’m interested in learning new Technologies.
-- 🌱 I have learnt spring framework, and just wanted to do a sample project during free time  ...
+- 🌱 just wanted to do a sample project during free time to practice all the data structures and nested classes from basics.
+-  written notes in simple terms to understand very easily.
 - 💞️ I’m looking to collaborate in projects using spring framework and java.
 - 📫 How to reach me --> you can mail me at srikanthmuniganti7977@gmail.com
 
